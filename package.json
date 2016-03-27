@@ -21,8 +21,8 @@
   "author": "Sam Deere <dev@colophonemes.org>",
   "license": "GPL",
   "dependencies": {
-    "uncss": "^0.12.0",
-    "minimatch": "^2.0.1",
-    "lodash": "^3.3.1"
+    "lodash": "^3.3.1",
+    "multimatch": "^2.1.0",
+    "uncss": "^0.12.0"
   }
 }
